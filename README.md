@@ -2,7 +2,7 @@
 
 This is Josiah's page
 
-## I am a senior at Southern Illinois University-Edwardsville
+## Senior at Southern Illinois University-Edwardsville
 
 *This is italics*
 
